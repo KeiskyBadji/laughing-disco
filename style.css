@@ -1,0 +1,66 @@
+.green {
+    
+    background-color: green;
+    
+}
+.red {
+    
+    background-color: red;
+  
+}
+.blue {
+
+    background-color: blue;
+   
+}
+.blue2 {
+    background-color: blue;
+}
+.green2 {
+    background-color: green;
+    float: left;
+}
+.small {
+ width: 300px;
+ height: 50px;
+ display: block;
+}
+.mini {
+    width: 100px;
+    height: 50px;
+    float: left;
+    display: block;
+}
+.box {
+    margin-top: 50px;
+    height: 50px;
+    width: 300px;
+    display: block;
+}
+.box2 {
+height: 50px;
+width: 300px;
+display: block;}
+.yellow {
+    background-color: yellow;
+}
+.black {
+    background-color: black;
+}
+.grey {
+    background-color: grey;
+}
+.box3 {
+    margin-top: 50px;
+    height: 100px;
+    width: 400px;
+    background-color: yellowgreen;
+    display: block;
+}
+.kub {
+    margin: 20px;
+    width: 70px;
+    height: 70px;
+    float:left;
+    display: block;
+}
